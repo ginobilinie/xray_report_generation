@@ -10,10 +10,12 @@ This repository is for our EMNLP 2021 paper "Automated Generation of Accurate &a
 We use two datasets for experiments to validate our method: [OpenI](https://openi.nlm.nih.gov/) and [MIMIC](https://physionet.org/content/mimiciii-demo/1.4/).
 
 # Environment for running codes
+   
+   - Operating System: Ubuntu 18.04
+   
+   - Hardware: tested with RTX 2080 TI (11G)
 
-   - Hardware: tested with RTX 2080 TI (11G).
-
-   - Software: tested with PyTorch 1.2.0, Python3.7, CUDA 10.0, tensorboardX, Ninja, tqdm, Easydict
+   - Software: tested with PyTorch 1.5.1, Python3.7, CUDA 10.0, tensorboardX, Ninja, tqdm, Easydict
    
    - Anaconda is strongly recommended
 
