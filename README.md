@@ -11,6 +11,13 @@ We use two datasets for experiments to validate our method: [OpenI](https://open
 
 # Environment for running codes
 
+   - Hardware: tested with RTX 2080 TI (11G).
+
+   - Software: tested with PyTorch 1.2.0, Python3.7, CUDA 10.0, tensorboardX, Ninja, tqdm, Easydict
+   
+   - Anaconda is strongly recommended
+
+
 # How to train
 
 # How to test
