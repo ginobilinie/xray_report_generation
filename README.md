@@ -7,6 +7,7 @@ This repository is for our EMNLP 2021 paper "Automated Generation of Accurate &a
 
 
 # Data we used for experiments
+We use two datasets for experiments to validate our method: [OpenI](https://openi.nlm.nih.gov/) and [MIMIC](https://physionet.org/content/mimiciii-demo/1.4/).
 
 # Environment for running codes
 
