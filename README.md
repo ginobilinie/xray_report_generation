@@ -29,6 +29,9 @@ We use two datasets for experiments to validate our method:
 
 # How to use our code for train/test
 Step 0: Build your vocabulary model with SentencePiece (tools/vocab_builder.py)
+- Please make sure that you have preprocess the medical reports accurately.
++ For MIMIC-CXR dataset, use the tools/report_extractor.py
++ For the Open-I dataset (NLMCXR), we used the preprocessed file (based on the "On the Automatic Generation of Medical Imaging Reports" - Jing et. al.) from this repository: https://raw.githubusercontent.com/ZexinYan/Medical-Report-Generation/master/data/new_data/captions.json
 - We use the top 900 high-frequency words
 - We use 100 unigram words extracted from SentencePiece to avoid the out-of-vocabulary situation.
 
