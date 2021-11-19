@@ -41,7 +41,7 @@ Step 1: Train the LSTM and/or Transformer models, which are just text classifier
 - Assume the trained text classifier is perfect and exactly reflects the medical reports. Although this is not the case, in practice, it gives us a good approximation of how good the generated reports are. Human evaluation is also needed to evalutate the generated reports.
 - The goals here are:
 1) Evaluate the performance of the generated reports by comparing the predicted labels and the ground-truth labels.
-2) Use the trained models to fine-tune generated medical reports.
+2) Use the trained models to fine-tune medical reports' output.
 
 Step 2: Test the text classifier models using the train_text.py with:
 - PHASE = 'TEST'
