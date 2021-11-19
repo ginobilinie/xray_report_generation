@@ -49,7 +49,7 @@ Step 2: Test the text classifier models using the train_text.py with:
 
 Step 3: Transfer the trained model to obtain 14 common disease labels for the Open-I datasets and any dataset that doesn't have ground-truth labels.
 - Transfer the learned model to the new dataset by predicting 14 disease labels for the entire dataset by running extract_label.py on the target dataset. The output file is file2label.json
-- Split them into train, validation, and test sets (we have already did that for you, just put the file2label.json in a place where the NLMCXR dataset can see). 
+- Split them into train, validation, and test sets (we have already done that for you, just put the file2label.json in a place where the NLMCXR dataset can see). 
 - Build your own text classifier (train_text.py) based on the extracted disease labels (treat them as ground-truth labels).
 - In the end, we want the text classifiers (LSTM/Transformer) to best describe your model's output on the working dataset.
 
