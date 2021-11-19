@@ -69,7 +69,8 @@ Step 6: Train the ClsGenInt model (Classifier-Generator-Interpreter) with train_
 
 Step 7: Generate the outputs
 - Use the infer function in the train_full.py to generate the outputs. This infer function ensures that no ground-truth labels and medical reports are being used in the inference phase (we used teacher forcing / ground-truth labels during training phase).
-- Also specify your the name of your output files.
+- Also specify the threshold parameter, see the appendix of our paper on which threshold to choose from. 
+- Final specify your the name of your output files.
 
 Step 8: Evaluate the generated reports.
 - Use the trained text classifier model in step 1 to evaluate the clinical accuracy
