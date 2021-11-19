@@ -70,7 +70,6 @@ Step 7: Evaluate the generated reports.
 - Use the trained text classifier model in step 1 to evaluate the clinical accuracy
 - Use the nlg-eval library to compute BLEU-1 to BLEU-4 scores and other metrics.
 
-## How to train
 
 ## Our pretrained models
 
@@ -81,8 +80,6 @@ Our model is uploaded in google drive, please download the model from
 | Our Model for MIMIC | [Google Drive](https://drive.google.com/drive/folders/1qxjqG7tQZSrgjwPhfPxNZzLaE11uKDYX?usp=sharing)  |
 | Our Model for NLMCXR| [Google Drive](https://drive.google.com/drive/folders/1qxjqG7tQZSrgjwPhfPxNZzLaE11uKDYX?usp=sharing)  |
 
-
-## How to test
 
 # Citation
 If it is helpful to you, please cite our work:
