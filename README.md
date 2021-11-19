@@ -35,6 +35,11 @@ We use two datasets for experiments to validate our method:
 
 Our model is uploaded in google drive, please download the model from
 
+| Model Name  | Download Link |
+| ------------- | ------------- |
+| Our Model for MIMIC | [Google Drive](https://drive.google.com/drive/folders/1qxjqG7tQZSrgjwPhfPxNZzLaE11uKDYX?usp=sharing)  |
+| Our Model for NLMCXR| [Google Drive](https://drive.google.com/drive/folders/1qxjqG7tQZSrgjwPhfPxNZzLaE11uKDYX?usp=sharing)  |
+
 
 ## How to test
 
