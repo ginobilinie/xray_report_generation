@@ -27,9 +27,16 @@ We use two datasets for experiments to validate our method:
    - Anaconda is strongly recommended
 
 
-# How to train
+# How to use our code for train/test
 
-# How to test
+## How to train
+
+## Our pretrained models
+
+Our model is uploaded in google drive, please download the model from
+
+
+## How to test
 
 # Citation
 If it is helpful to you, please cite our work:
