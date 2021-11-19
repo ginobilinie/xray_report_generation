@@ -28,7 +28,7 @@ We use two datasets for experiments to validate our method:
 
 
 # How to use our code for train/test
-Step 0: Build your vocabulary model with SentencePiece (tools/build_vocab.py)
+Step 0: Build your vocabulary model with SentencePiece (tools/vocab_builder.py)
 - We use the top 900 high-frequency words
 - We use 100 unigram words extracted from SentencePiece to avoid the out-of-vocabulary situation.
 
