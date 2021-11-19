@@ -65,7 +65,7 @@ Step 5: Train the ClsGen model (Classifier-Generator) with train_full.py
 Step 6: Train the ClsGenInt model (Classifier-Generator-Interpreter) with train_full.py
 - PHASE = 'TRAIN'
 - RELOAD = True --> Load the ClsGen trained from the step 4, load the Interpreter model from Step 1 or 3
-- Reduce the learning rate --> Since the ClsGen has already converged, we need to reduce the learning rate to fine-tune the vocabulary representation.
+- Reduce the learning rate --> Since the ClsGen has already converged, we need to reduce the learning rate to fine-tune the word representation such that it minimize the interpreter error. 
 
 Step 7: Generate the outputs
 - Use the infer function in the train_full.py to generate the outputs. This infer function ensures that no ground-truth labels and medical reports are being used in the inference phase (we used teacher forcing / ground-truth labels during training phase).
