@@ -83,7 +83,7 @@ Step 7: Generate the outputs
 
 Step 8: Evaluate the generated reports.
 - Use the trained text classifier model in step 1 to evaluate the clinical accuracy
-- Use the nlg-eval library to compute BLEU-1 to BLEU-4 scores and other metrics.
+- Use the [nlg-eval library](https://github.com/Maluuba/nlg-eval) to compute BLEU-1 to BLEU-4 scores and other metrics.
 
 
 ## Our pretrained models
