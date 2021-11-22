@@ -34,6 +34,8 @@ We use two datasets for experiments to validate our method:
    - Software: tested with PyTorch 1.5.1, Python3.7, CUDA 10.0, tensorboardX, Ninja, tqdm, Easydict
    
    - Anaconda is strongly recommended
+   
+   - Other Libraries: [Spacy](https://spacy.io/), [SentencePiece](https://github.com/google/sentencepiece), [nlg-eval](https://github.com/Maluuba/nlg-eval)
 
 
 # How to use our code for train/test
