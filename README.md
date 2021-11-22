@@ -44,6 +44,7 @@ Step 0: Build your vocabulary model with SentencePiece (tools/vocab_builder.py)
 - We use the top 900 high-frequency words
 - We use 100 unigram tokens extracted from SentencePiece to avoid the out-of-vocabulary situation.
 - In total we have 1000 words and tokens.
+**Update: You can skip step 0 and use the vocabulary files in Vocabulary/*.model**
 
 Step 1: Train the LSTM and/or Transformer models, which are just text classifiers, to obtain 14 common disease labels.
 - Use the train_text.py to train the models on your working datasets. For example, the MIMIC-CXR comes with CheXpert labels; you can use these labels as ground-truth to train a differentiable text classifier model. Here the text classifier is a binary predictor (postive/uncertain) = 1 and (negative/unmentioned) = 0.
