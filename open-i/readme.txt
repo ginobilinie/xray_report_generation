@@ -25,3 +25,5 @@ The "reports_ori.json" is the original reports that we converted from XML files.
 - Each study_id has associated image files
 - Each study_id has a medical report consisting of IMPRESSION, FINDINGS, INDICATIONS, ...
 - In our study, we use the INDICATION section as contextual input for the model. IMPRESSION and FINDINGS are concatenated following the Jing et. al. paper.
+
+The count_sentence.json and count_nounphrase.json files can be obtained using the tools/sentence_extractor.py and tools/nounphrase_extractor.py
