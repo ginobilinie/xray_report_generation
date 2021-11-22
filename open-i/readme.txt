@@ -20,7 +20,7 @@ The "file2label.json" contains labels extracted from the LSTM CheXpert labeler (
  'Pneumothorax',
  'Support Devices']
  
-The "report_ori.json" is the original reports that we converted from XML files.
+The "reports_ori.json" is the original reports that we converted from XML files.
 - It has study_id (*.xml)
 - Each study_id has associated image files
 - Each study_id has a medical report consisting of IMPRESSION, FINDINGS, INDICATIONS, ...
