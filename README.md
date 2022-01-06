@@ -102,10 +102,23 @@ Our model is uploaded in google drive, please download the model from
 # Citation
 If it is helpful to you, please cite our work:
 ```
-@article{nguyen2021automated,
-  title={Automated Generation of Accurate$\backslash$\& Fluent Medical X-ray Reports},
-  author={Nguyen, Hoang TN and Nie, Dong and Badamdorj, Taivanbat and Liu, Yujie and Zhu, Yingying and Truong, Jason and Cheng, Li},
-  journal={arXiv preprint arXiv:2108.12126},
-  year={2021}
+@inproceedings{nguyen-etal-2021-automated,
+    title = "Automated Generation of Accurate {\&} Fluent Medical {X}-ray Reports",
+    author = "Nguyen, Hoang  and
+      Nie, Dong  and
+      Badamdorj, Taivanbat  and
+      Liu, Yujie  and
+      Zhu, Yingying  and
+      Truong, Jason  and
+      Cheng, Li",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.288",
+    doi = "10.18653/v1/2021.emnlp-main.288",
+    pages = "3552--3569",
 }
+
 ```
