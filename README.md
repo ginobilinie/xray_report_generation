@@ -95,7 +95,7 @@ Our model is uploaded in google drive, please download the model from
 
 | Model Name  | Download Link |
 | ------------- | ------------- |
-| Our Model for MIMIC | [Google Drive](https://drive.google.com/file/d/11orAMx__OKgfiZFfFl26WOB2Chxg3TRj/view?usp=sharing)  |
+| Our Model for MIMIC | [Google Drive](https://drive.google.com/file/d/11orAMx__OKgfiZFfFl26WOB2Chxg3TRj/view?usp=sharing)  | [Baidu Yunpan]( https://pan.baidu.com/s/1Fof5DhFOWO0WOtYjsDkDWQ|
 | Our Model for NLMCXR| [Google Drive](https://drive.google.com/file/d/17INF5HPUln9tE2R0-l1yefOez4cTVAEq/view?usp=sharing)  |
 
 
