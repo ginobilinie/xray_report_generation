@@ -93,10 +93,10 @@ We use two datasets for experiments to validate our method:
 
 Our model is uploaded in google drive, please download the model from
 
-| Model Name  | Download Link |
-| ------------- | ------------- |
+| Model Name  | Download Link (Goog) | Download Link (Baidu)|
+| ------------- | ------------- |---------------|
 | Our Model for MIMIC | [Google Drive](https://drive.google.com/file/d/11orAMx__OKgfiZFfFl26WOB2Chxg3TRj/view?usp=sharing)  | [Baidu Yunpan]( https://pan.baidu.com/s/1Fof5DhFOWO0WOtYjsDkDWQ|
-| Our Model for NLMCXR| [Google Drive](https://drive.google.com/file/d/17INF5HPUln9tE2R0-l1yefOez4cTVAEq/view?usp=sharing)  |
+| Our Model for NLMCXR| [Google Drive](https://drive.google.com/file/d/17INF5HPUln9tE2R0-l1yefOez4cTVAEq/view?usp=sharing)  | [Baidu Yunpan](https://pan.baidu.com/s/1zeAS4AE33pT_t68E8RGlqw?pwd=0omr)|
 
 
 # Citation
